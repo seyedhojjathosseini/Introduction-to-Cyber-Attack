@@ -3,11 +3,11 @@ Introduction to Cyber Attack
 
 Who is recommended to read this file
 
-1- If you want to get acquainted with the science of hacking
+1.If you want to get acquainted with the science of hacking
 
-2- If you want to work in the security field
+2. If you want to work in the security field
 
-3- If you want to ask professional questions from the volunteer
+3. If you want to ask professional questions from the volunteer
 
 4. If you want ...
 
